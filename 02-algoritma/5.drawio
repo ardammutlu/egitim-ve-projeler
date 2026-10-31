@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="bOqoJkwEJCl6Dl7yYbh8">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-3" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="6IN8wGwyI0DOrWavy-b_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="başla" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-4" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sayac=1" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-6" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sonuc=1" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-8" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="giriş&lt;div&gt;&quot;Sayı Giriniz:&quot;,X&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-13" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6IN8wGwyI0DOrWavy-b_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sonuc=Sonuc*Sayac" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-15" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="6IN8wGwyI0DOrWavy-b_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sayac=Sayac+1" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-16" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-17" connectable="0" parent="6IN8wGwyI0DOrWavy-b_-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="HAYIR" vertex="1">
+          <mxGeometry relative="1" x="-0.2889" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-21" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-22" connectable="0" parent="6IN8wGwyI0DOrWavy-b_-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="EVET" vertex="1">
+          <mxGeometry relative="1" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Sayac&amp;lt;=X" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-19" edge="1" parent="1" source="6IN8wGwyI0DOrWavy-b_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="çıkış&lt;div&gt;&quot;Sonuc Degeri:&quot;,Sonuc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="dur" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="6IN8wGwyI0DOrWavy-b_-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6IN8wGwyI0DOrWavy-b_-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="810" as="sourcePoint" />
+            <mxPoint x="190" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

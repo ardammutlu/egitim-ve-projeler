@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="zd0iOAv-r5X-aLO2E2ya">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-2" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="başla" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-4" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="giriş&lt;div&gt;&quot;Vize Notu Giriniz&quot;,Y&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="166" x="354" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-6" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Y=Y %40" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-8" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="giriş&lt;div&gt;&quot;Final Notu Giriniz&quot;,X&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="166" x="354" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-10" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="437" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="X=X%60" vertex="1">
+          <mxGeometry height="60" width="120" x="377" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-13" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="KIU-k4yGOuk3AN3gEhdu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ort=X+Y" vertex="1">
+          <mxGeometry height="60" width="120" x="377" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-14" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-19" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-20" connectable="0" parent="KIU-k4yGOuk3AN3gEhdu-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="HAYIR&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.03" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Ort&amp;gt;=45" vertex="1">
+          <mxGeometry height="80" width="80" x="410" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-17" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="çıkış&lt;div&gt;&quot;Dersten Geçtiniz:&quot;, Ort&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="166" x="354" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="dur" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-23" edge="1" parent="1" source="KIU-k4yGOuk3AN3gEhdu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="KIU-k4yGOuk3AN3gEhdu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KIU-k4yGOuk3AN3gEhdu-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="çıkış&lt;div&gt;&quot;Dersten Kaldınız:&quot;, Ort&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="166" x="670" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

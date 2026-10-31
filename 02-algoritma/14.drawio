@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sayfa-1" id="hEjUM6aKL6oZfkp4A4A_">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-2" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="başla" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-5" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="NGkDrMeMs-mM4_6FFWT8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="çıkış&lt;div&gt;&quot;Topla=1,Cikar=2,Çarp=3,Bol=4&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="260" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-7" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="NGkDrMeMs-mM4_6FFWT8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="giriş&lt;div&gt;&quot;Sayi1 Giriniz&quot;,Sayi1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="250" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-8" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="giriş&lt;div&gt;&quot;Sayi2 Giriniz&quot;,Sayi2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-10" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="giriş&lt;div&gt;&quot;islem Giriniz&quot;,islem&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="240" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-12" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-21" connectable="0" parent="NGkDrMeMs-mM4_6FFWT8-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="HAYIR" vertex="1">
+          <mxGeometry relative="1" x="-0.1273" y="5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-24" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-28" connectable="0" parent="NGkDrMeMs-mM4_6FFWT8-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="EVET" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-32" connectable="0" parent="NGkDrMeMs-mM4_6FFWT8-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="EVET" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" y="1" as="geometry">
+            <mxPoint x="189" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-33" connectable="0" parent="NGkDrMeMs-mM4_6FFWT8-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="EVET" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" y="1" as="geometry">
+            <mxPoint x="359" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-34" connectable="0" parent="NGkDrMeMs-mM4_6FFWT8-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="EVET" vertex="1">
+          <mxGeometry relative="1" x="-0.0286" y="1" as="geometry">
+            <mxPoint x="539" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="islem=1" vertex="1">
+          <mxGeometry height="80" width="80" x="110" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-15" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="NGkDrMeMs-mM4_6FFWT8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-29" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="islem=2" vertex="1">
+          <mxGeometry height="80" width="80" x="300" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-17" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="NGkDrMeMs-mM4_6FFWT8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-30" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="islem=3" vertex="1">
+          <mxGeometry height="80" width="80" x="470" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-18" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-19" connectable="0" parent="NGkDrMeMs-mM4_6FFWT8-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="HAYIR" vertex="1">
+          <mxGeometry relative="1" x="-0.1571" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-31" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-16" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="islem=4" vertex="1">
+          <mxGeometry height="80" width="80" x="650" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NGkDrMeMs-mM4_6FFWT8-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="560" as="sourcePoint" />
+            <mxPoint x="350" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-22" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;HAYIR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="400" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-23" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;HAYIR&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="70" x="580" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sonuc=Sayi1+Sayi2" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sonuc=Sayi1-Sayi2" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sonuc=Sayi1*Sayi2" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sonuc=Sayi1/Sayi2" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-41" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-35" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="1060" as="sourcePoint" />
+            <mxPoint x="360" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="910" as="sourcePoint" />
+            <mxPoint x="360" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-44" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-37" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="1020" as="sourcePoint" />
+            <mxPoint x="350" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-45" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-38" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="810" y="1020" as="sourcePoint" />
+            <mxPoint x="360" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-47" edge="1" parent="1" source="NGkDrMeMs-mM4_6FFWT8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-46" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="çıkış&lt;div&gt;&quot;Sonuc degeri:&quot;,sonuc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="280" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="NGkDrMeMs-mM4_6FFWT8-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="dur" vertex="1">
+          <mxGeometry height="80" width="120" x="294" y="1169" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
